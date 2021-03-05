@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently **looking for work**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **JavaScript & ReactJS**
 
 - 📚 I'm always trying to improve on **JavaScript**
 
