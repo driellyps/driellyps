@@ -8,7 +8,7 @@
 
 - 📚 Always trying to improve the skills I already have
 
-- 🗣 I speak Portuguese(BR), English and Swedish
+- 🗣 I speak Portuguese(BR), English and Swedish and some basic Spanish
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="30" height="30"/>
