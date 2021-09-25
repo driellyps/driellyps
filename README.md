@@ -4,9 +4,9 @@
 
 - 👩🏽‍💻 FullStack Developer at [WeTal](https://www.wetal.com)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **TypeScript**
 
-- 📚 I'm also trying to improve my skills on **JavaScript**
+- 📚 Always trying to improve the skills I already have
 
 - 🗣 I speak Portuguese(BR), English and Swedish
 
