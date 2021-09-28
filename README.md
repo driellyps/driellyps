@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=driellyps" alt="driellyps" /> </p>
 
-- 👩🏽‍💻 FullStack Developer at [WeTal](https://www.wetal.com)
+- 👩🏽‍💻 FullStack Developer looking for new opportunities
 
 - 🌱 I’m currently learning **TypeScript**
 
