@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=driellyps" alt="driellyps" /> </p>
 
-- 👩🏽‍💻 FullStack Developer **looking for new opportunities**
+- 👩🏽‍💻 FullStack Developer at **[Fixi](https://fixi.bike/)**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** and **GraphQL**
 
 - 📚 Always trying to improve the skills I already have
 
