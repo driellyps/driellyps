@@ -4,9 +4,7 @@
 
 - 👩🏽‍💻 FullStack Developer at **[Fixi](https://fixi.bike/)**
 
-- 🌱 I’m currently learning **TypeScript** and **GraphQL**
-
-- 📚 Always trying to improve the skills I already have
+- 📚 Always trying to improve the skills I have
 
 - 🗣 I speak Portuguese(BR), English and Swedish and some basic Spanish
 
