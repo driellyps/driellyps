@@ -8,6 +8,8 @@
 
 - 🗣 I speak Portuguese(BR), English and Swedish and some basic Spanish
 
+- 🇸🇪 Based in Stockholm
+
 ### My Stack:
 
 <p align="left">
