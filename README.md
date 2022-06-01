@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Drielly Porto</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px" heigth="10px">, I'm Drielly Porto</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=driellyps" alt="driellyps" /> </p>
 
