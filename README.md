@@ -27,7 +27,6 @@
 ### My current to-do list:
 - [x] Learn the basics of TypeScript
 - [x] <i>Learn the basics of GraphQL</i> (⏳ - WIP)
-- [ ] Create my own website/portfolio using TypeScript/NextJS
 - [ ] Learn React Native
 - [ ] Build my first app
 
