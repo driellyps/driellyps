@@ -4,7 +4,7 @@
 
 - 👩🏽‍💻 FullStack Developer
 
-- 📚 Always trying to improve the skills I have
+- 📚 Always trying to improve the skills I have and learn new things
 
 - 🗣 I speak Portuguese(BR), English and Swedish and some basic Spanish
 
