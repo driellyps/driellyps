@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=driellyps" alt="driellyps" /> </p>
 
-- 👩🏽‍💻 FullStack Developer at **[Fixi](https://fixi.bike/)**
+- 👩🏽‍💻 FullStack Developer
 
 - 📚 Always trying to improve the skills I have
 
@@ -23,11 +23,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/></p>
 
-
-### My current to-do list:
-- [x] Learn the basics of TypeScript
-- [x] <i>Learn the basics of GraphQL</i> (⏳ - WIP)
-- [ ] Learn React Native
-- [ ] Build my first app
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=driellyps&show_icons=true&theme=dark" alt="driellyps"/> </p>
