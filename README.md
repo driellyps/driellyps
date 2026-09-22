@@ -23,5 +23,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/></p>
 
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=driellyps&show_icons=true&theme=dark" alt="driellyps"/> </p>
